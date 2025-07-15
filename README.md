@@ -10,4 +10,4 @@
 
 
 
-- Add Ghost Theme
+- Ghost Theme Updated to Vers. 1.1
